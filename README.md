@@ -1,4 +1,4 @@
-![Banner Image](Banner.jpg)
+![Banner Image](banner.jpg)
 <!-- ![Banner GIF](images/Banner.gif) -->
 
 <h1 align="left">Oi world, I'm Tarush</h1>
