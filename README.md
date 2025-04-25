@@ -149,7 +149,7 @@ Whenever I write documentation i try to follow keep in mind the following steps 
   </a>
 
   <!-- Portfolio -->
-  <a href="https://tarush5253.github.io/my-portfolio/" target="_blank">
+  <a href="https://founder.freewaystudy.tech/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
 </p>
